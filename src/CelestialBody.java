@@ -42,12 +42,13 @@ public class CelestialBody {
 	 */
 	public CelestialBody(CelestialBody b){
 		// TODO: complete constructor
-		b.myXPos = this.myXPos;
-		b.myYPos = this.myYPos;
-		b.myXVel = this.myXVel;
-		b.myYVel = this.myYVel;
-		b.myMass = this.myMass;
-		b.myFileName = this.myFileName;
+		this.myXPos = b.myXPos;
+		this.myYPos	= b.myYPos;
+		this.myXVel = b.myXVel;
+		this.myYVel = b.myYVel;
+		this.myMass = b.myMass;
+		this.myFileName = b.myFileName;
+
 
 	}
 
