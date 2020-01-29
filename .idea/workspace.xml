@@ -1,67 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c1fc2d3-8c81-4262-a204-8b03418f99b4" name="Default Changelist" comment="">
+    <list default="true" id="af5e684f-2eb1-4893-b830-4f66a36aac85" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/p1-nbody-sp20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/src.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/analysis/analysis.txt" beforeDir="false" afterPath="$PROJECT_DIR$/analysis/analysis.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CelestialBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CelestialBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StdDraw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StdDraw.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1WfTvd7ATNNAZoLbWPIQWCLUP4x" />
+  <component name="ProjectId" id="1X0ABpFqmigHag73oVdWP6W10x1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$USER_HOME$/APTS/src" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.TestReadBodies">
-    <configuration name="TestBodyConstructorGetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestBodyConstructorGetters" />
-      <module name="NBody-spring20" />
+  <component name="RunManager" selected="Application.NBody">
+    <configuration name="NBody" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NBody" />
+      <module name="p1-nbody-sp20" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCalcDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestCalcDistance" />
-      <module name="NBody-spring20" />
+    <configuration name="TestCalcNetForceExertedByXY" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestCalcNetForceExertedByXY" />
+      <module name="p1-nbody-sp20" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="TestReadBodies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestReadBodies" />
-      <module name="NBody-spring20" />
+      <module name="p1-nbody-sp20" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="TestReadRadius" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestReadRadius" />
-      <module name="NBody-spring20" />
+      <module name="p1-nbody-sp20" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUpdate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestUpdate" />
+      <module name="p1-nbody-sp20" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -70,35 +71,87 @@
       <list>
         <item itemvalue="Application.TestReadBodies" />
         <item itemvalue="Application.TestReadRadius" />
-        <item itemvalue="Application.TestCalcDistance" />
-        <item itemvalue="Application.TestBodyConstructorGetters" />
+        <item itemvalue="Application.TestUpdate" />
+        <item itemvalue="Application.TestCalcNetForceExertedByXY" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8c1fc2d3-8c81-4262-a204-8b03418f99b4" name="Default Changelist" comment="" />
-      <created>1567535141820</created>
+      <changelist id="af5e684f-2eb1-4893-b830-4f66a36aac85" name="Default Changelist" comment="" />
+      <created>1580172505423</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1567535141820</updated>
+      <updated>1580172505423</updated>
     </task>
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
+  <component name="WindowStateProjectService">
+    <state x="97" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580243042442">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="97" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1580243042442" />
+    <state x="422" y="117" key="FileChooserDialogImpl" timestamp="1580253627379">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="422" y="117" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1580253627379" />
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1580262360359">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1580262360359" />
+    <state width="1237" height="176" key="GridCell.Tab.0.center" timestamp="1580262360359">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1580262360359" />
+    <state width="1237" height="176" key="GridCell.Tab.0.left" timestamp="1580262360358">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1580262360358" />
+    <state width="1237" height="176" key="GridCell.Tab.0.right" timestamp="1580262360359">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1580262360359" />
+    <state width="1237" height="220" key="GridCell.Tab.1.bottom" timestamp="1580189057174">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1580189057174" />
+    <state width="1237" height="220" key="GridCell.Tab.1.center" timestamp="1580189057174">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1580189057174" />
+    <state width="1237" height="220" key="GridCell.Tab.1.left" timestamp="1580189057174">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1580189057174" />
+    <state width="1237" height="220" key="GridCell.Tab.1.right" timestamp="1580189057174">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1580189057174" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TestCalcDistance.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
